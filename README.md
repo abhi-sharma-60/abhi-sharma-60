@@ -1,4 +1,3 @@
-                                             Hi 👋, I'm Abhishek Sharma   
 
 - 👀 I’m interested in exploring world of code.🧑🏻‍💻
 - 🌱 I’m currently learning Tech Stacks of Web development
