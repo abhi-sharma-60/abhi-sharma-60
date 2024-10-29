@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Abhishek Sharma
 - 👀 I’m interested in exploring world of code.🧑🏻‍💻
 - 🌱 I’m currently learning Tech Stacks of Web development
 - 💞️ I’m looking to collaborate on New Project Ideas
 - 📫 How to reach me @abhi.sharma.abhi.60@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I always code in my mind before on screen.📺
   
 
