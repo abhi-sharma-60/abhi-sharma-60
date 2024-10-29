@@ -1,5 +1,7 @@
 
-- # Hi 👋🏻 there, I'm Abhishek Sharma 
+<p align="right">
+  <h1>Hi 👋🏻 there, I'm Abhishek Sharma </h1>
+</p>
 
 👀 I’m interested in exploring world of code.🧑🏻‍💻
 
@@ -10,12 +12,12 @@
 ⚡ Fun fact:
 I always code in my mind before on screen.📺
 
-## 
+
 Connect with me:
 - GitHub: [abhi-sharma-60](https://github.com/abhi-sharma-60)
 - LinkedIn: [Abhishek]([https://www.linkedin.com/in/manpreetkaur](https://www.linkedin.com/in/abhishek-sharma-mnnit27/))
 
-## 
+
 Languages:
 - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
