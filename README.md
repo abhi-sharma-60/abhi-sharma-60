@@ -7,9 +7,6 @@
 🌱 I'm currently learning: Tech Stacks of Web development.
 
 📫 How to reach me: [@abhi.sharma.abhi.60@gmail.com](mailto:abhi.sharma.abhi.60@gmail.com)
-  
-⚡ Fun fact:
-I always code in my mind before on screen.📺
 
 
 Connect with me:<br></br>
