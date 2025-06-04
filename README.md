@@ -65,7 +65,7 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/abhishek-sharma-mnnit27/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-sharma-mnnit27/" target="_blank">
     <img src="https://img.shields.io/badge/-Abhishek-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://discord.gg/im.abhi_sharma" target="_blank">
