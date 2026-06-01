@@ -1,6 +1,6 @@
 <!-- Header Wave Animation -->
 <div align="center" style="line-height: 1; margin-top: 0; padding-top: 0;">
- <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
+ <h1 align="center">Hi 👋, I'm Abhishek</h1>
 
 
 <p align="center">
